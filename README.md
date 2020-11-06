@@ -36,7 +36,7 @@ We can break this task down even further, to be sure we are pairing mentors and 
 
 We already created a table for retirees by department number during our pre-work, here:
 
-![Retirees by Department Number](https://github.com/davidfashbinder/Pewlett-Hackard-Analysis/blob/main/Images/Retire_By_Dept.png).
+![Retirees by Department Number](https://github.com/davidfashbinder/Pewlett-Hackard-Analysis/blob/main/Images/Retire_by_Dept.png).
 
 While this is helpful, we can make this data easier to work with by joining this table with the "Departments" table to illustrate the number of retirees by Department Name. We will use this SQL Query:
 
