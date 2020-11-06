@@ -54,3 +54,20 @@ WHERE e.birth_date BETWEEN '1965-01-01' AND '1965-12-31'
 ORDER BY emp_no
 
 SELECT * FROM mentorship_eligibility
+
+CREATE TABLE retire_by_dept(
+	count INT NOT NULL,
+	dept_no VARCHAR NOT NULL
+);
+
+SELECT rd.count, d.dept_name
+INTO retire_by_dept_name
+FROM retire_by_dept as rd
+INNER JOIN departments as d 
+ON d.dept_no = rd.dept_no
+ORDER by count DESC; 
+
+DROP TABLE retire_by_dept_name
+
+SELECT * FROM retire_by_dept_name
+
