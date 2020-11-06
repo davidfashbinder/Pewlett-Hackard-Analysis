@@ -23,7 +23,7 @@ In this analysis, we are examining the impact that the upcoming "silver tsunami"
 
 -Engineers are 15.73% and Staff 13.54% of all potential retirees.  
 
-![Mentorship Employees]("Images/Mentorship_Eligibility.png")
+![Mentorship Employees](https://github.com/davidfashbinder/Pewlett-Hackard-Analysis/blob/main/Images/Mentorship_Eligibility.pn)
 
 -There are 1940 employees eligible for the Mentorship Program, based on their ages.  
 
