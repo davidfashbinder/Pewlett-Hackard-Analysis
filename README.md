@@ -15,7 +15,7 @@ In this analysis, we are examining the impact that the upcoming "silver tsunami"
 
 ### Number of Retiring Employees By Title 
 
-![Retiring Titles]("Images/Retiring_Titles.png")
+![Retiring Titles](https://github.com/davidfashbinder/Pewlett-Hackard-Analysis/blob/main/Images/Retiring_Titles.png)
 
 -There are a total of 90,398 employees that are potential retirees.
 
@@ -36,14 +36,14 @@ We can break this task down even further, to be sure we are pairing mentors and 
 
 We already created a table for retirees by department number during our pre-work, here:
 
-![Retirees by Department Number]("Images/Retire_By_Dept.png").
+![Retirees by Department Number](https://github.com/davidfashbinder/Pewlett-Hackard-Analysis/blob/main/Images/Retire_By_Dept.png).
 
 While this is helpful, we can make this data easier to work with by joining this table with the "Departments" table to illustrate the number of retirees by Department Name. We will use this SQL Query:
 
-![Retirees by Department Name]("Images/SQL_query_Retire_by_Dept_Name.png")
+![Retirees by Department Name](https://github.com/davidfashbinder/Pewlett-Hackard-Analysis/blob/main/Images/SQL_query_Retire_by_Dept_Name.png)
 
 And we will get this table as the output:
 
-![Retirees by Department Name Output]("Images/Retire_by_Dept_Name.png")
+![Retirees by Department Name Output](https://github.com/davidfashbinder/Pewlett-Hackard-Analysis/blob/main/Images/Retire_by_Dept_Name.png)
 
 We can now partner with the leadership of the listed departments in order to jump-start the Mentorship Program and be ready for the "Silver Tsunami".
